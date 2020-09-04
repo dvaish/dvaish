@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome!
+
+#### Detailed below are the adventures of a complete amatuer with a sudden - possibly quaratine-induced - interest in programming. 
+
+
 
 <!--
 **dvaish/dvaish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
