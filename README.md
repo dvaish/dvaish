@@ -1,6 +1,6 @@
 ### Welcome!
 
-#### Detailed below are the adventures of a complete amatuer with a sudden - possibly quaratine-induced - interest in programming. 
+# Mostly and amatuer but maybe you'll find some value in here (somewhere). 
 
 
 
