@@ -1,7 +1,5 @@
 ### Welcome!
 
-#### Mostly and amatuer but maybe you'll find some value in here (somewhere). 
-
 
 
 <!--
